@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o Fernando Augusto 👋
 
-<!--
-**fernandomartinsdesa/fernandomartinsdesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub!  
+Sou desenvolvedor Front End, apaixonado por criar interfaces modernas, acessíveis e eficientes.
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Análise e Desenvolvimento de Sistemas (ADS)
+- 💻 Desenvolvedor Front End, focado em criar soluções web que unem performance, design e acessibilidade
+- 🔒 Entusiasta de segurança de sistemas, vulnerabilidades e hacker ético
+- 🤝 Busco conexões com pessoas interessadas em colaborar e contribuir em projetos de tecnologia
+
+## 🛠️ Ferramentas & Tecnologias favoritas
+
+- HTML
+- JavaScript
+- Tailwind CSS
+- React
+- Vue.js
+
+## 💡 Vamos colaborar?
+
+Tenho vontade de participar de projetos em conjunto, trocar experiências e aprender sempre mais!  
+Se você também curte desenvolvimento front end, segurança da informação ou quer propor uma ideia, bora conversar :)
+
+## 📫 Onde me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/fernandomartinsdesa)
+
+---
+
+<div align="center">
+  Obrigado pela visita! ⭐
+</div>
